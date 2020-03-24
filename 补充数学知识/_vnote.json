@@ -7,7 +7,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "1.统计学习三要素.md",
+            "name": "1.泰勒公式.md",
             "tags": [
             ]
         },
@@ -17,7 +17,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "2.均值与期望.md",
+            "name": "2.傅里叶变换.md",
             "tags": [
             ]
         },
@@ -27,7 +27,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "3.似然函数与极大似然估计.md",
+            "name": "3高斯混合模型.md",
             "tags": [
             ]
         },
@@ -37,7 +37,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "4.范数.md",
+            "name": "4.线性代数.md",
             "tags": [
             ]
         },
@@ -47,7 +47,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "5.拟合问题.md",
+            "name": "5.蒙特卡罗方法.md",
             "tags": [
             ]
         },
@@ -57,7 +57,7 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "6.泛化能力.md",
+            "name": "6.拉普拉斯变换.md",
             "tags": [
             ]
         },
@@ -67,7 +67,27 @@
             ],
             "created_time": "2020-03-24T01:57:58Z",
             "modified_time": "2020-03-24T01:57:58Z",
-            "name": "7.生成模型与判别模型.md",
+            "name": "7.卷积.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-03-24T01:57:58Z",
+            "modified_time": "2020-03-24T01:57:58Z",
+            "name": "8.复变函数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-03-24T01:57:58Z",
+            "modified_time": "2020-03-24T01:57:58Z",
+            "name": "9.主成分分析.md",
             "tags": [
             ]
         }

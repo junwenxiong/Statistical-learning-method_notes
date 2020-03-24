@@ -1,7 +1,7 @@
-# Beta、Dirichlet
+# 1. Beta、Dirichlet
 
 
-## 1、$\Gamma$函数
+## 1.1. 1、$\Gamma$函数
 $\Gamma$函数是阶乘在实数上的推广，定义为：
 
 $$\Gamma(x) = \int_{0}^{+\infty} t^{x-1} e^{-t} \ dt$$
@@ -10,7 +10,7 @@ $\Gamma$函数的性质：
 $$\Gamma(x+1) = x \Gamma(x)$$
 $$\Gamma(n) = (n-1)!$$
 
-## 2、Gamma分布
+## 1.2. 2、Gamma分布
 根据$\Gamma$函数的定义有：
 
 $$\large{\int_{0}^{+\infty} \frac{x^{\alpha-1}e^{-x}}{\Gamma(\alpha)}\ dx = 1 \ \ \ \ \ \ (*)}$$
@@ -48,7 +48,7 @@ $$\large { = \frac {\alpha}{\beta} }$$
 $$\large{D(t)= \frac{\alpha}{\beta^2}} $$
 
 
-## 3、Beta函数
+## 1.3. 3、Beta函数
 Beta函数的定义：
 <br>
 
@@ -66,7 +66,7 @@ $$\large{B(\alpha,\beta)=B(\beta,\alpha)}$$
 
 $$\large{B(\alpha,\beta)=\frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha+\beta)}}$$
 
-## 4.Beta分布（从二项分布到Beta分布）
+## 1.4. 4.Beta分布（从二项分布到Beta分布）
 根据Beta函数的定义有：
 
 $$\large{\int_{0}^{1}\frac{p^{\alpha-1}  (1-p)^{\beta-1}}{B(\alpha,\beta)} \ dp = 1}$$
@@ -97,7 +97,7 @@ $$\large{\text{var}[p]=\mathbb E(p^2)-\mathbb E^2(p)=\frac{ab}{(a+b)^2(a+b+1)}}$
 ![](_v_images/20200212132323612_2629.png =637x)
 
 
-### 5.Dirichlet分布（从多项分布到Dirichlet分布）
+### 1.4.1. 5.Dirichlet分布（从多项分布到Dirichlet分布）
 Dirichlet可以看做是将Beta分布推广到多分类的情形。概率密度函数定义如下：
 
 $$\large{Dir(\vec p|\vec \alpha) = \frac{1}{B(\vec \alpha)} \prod_{k=1}^{K}p_{k}^{\alpha_{k}-1} \ \ \ \ \ (*)}$$
